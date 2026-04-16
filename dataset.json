@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant dataset spanning the Syracuse (Metro), New York metropolitan area including Syracuse. Captures the competitive landscape across city boundaries within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Syracuse (Metro), New York, US",
+  "export_job_id": "c31f698d-5438-4c9c-8417-8668aae4e4b3",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 694196,
+  "location_name": "Syracuse, NY",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-syracuse-metro-new-york-us-sample-694196",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/694196/beamstation_694196_restaurants-us-syracuseny_SAMPLE_DIST.csv",
+  "sample_pct": 12.88,
+  "sample_records": 124,
+  "sample_sha256": "7edbdaecaf4dde720f1ef74ea342f8dd9faed8c11a5010251fabfc65fc5951d5",
+  "sample_size_bytes": 447709,
+  "total_records": 963,
+  "updated_at": "2026-03-31T13:52:06.194780+00:00"
+}
