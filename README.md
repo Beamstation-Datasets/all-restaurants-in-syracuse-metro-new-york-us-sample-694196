@@ -9,9 +9,9 @@
 | Dataset ID | `694196` |
 | Location | Syracuse, NY |
 | Category | Restaurants |
-| Full dataset size | 963 records |
-| Free sample size | 124 records (12.88%) |
-| Last export | 2026-03-31T13:52:06.194780+00:00 |
+| Full dataset size | 1,246 records |
+| Free sample size | 124 records (9.95%) |
+| Last export | 2026-04-14T14:21:18.287017+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-syracuse-metro-new-york-us-sample-694196/releases/download/sample-latest/beamstation_694196_restaurants-us-syracuseny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
