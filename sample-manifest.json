@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4c3a8581-bc1d-45ca-a51b-d64fdeda8c9e",
+  "export_job_id": "eee68fa8-4095-491b-9bf1-2adcac8b6932",
   "id_short": 694196,
-  "published_at": "2026-04-21T19:42:22Z",
+  "published_at": "2026-04-28T19:24:29Z",
   "repo_name": "all-restaurants-in-syracuse-metro-new-york-us-sample-694196",
   "sample_asset_name": "beamstation_694196_restaurants-us-syracuseny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/694196/beamstation_694196_restaurants-us-syracuseny_SAMPLE_DIST.csv",
-  "sample_records": 111,
-  "sample_sha256": "1d79ea32ce55d5ca2d81a2008f17cd39350163aa915bf152c26fb76375f360ca",
-  "sample_size_bytes": 405281,
-  "total_records": 1119
+  "sample_records": 123,
+  "sample_sha256": "9ce5bdd9c63344e8229a26e8ad4e7bfc069e6ebb7f1582e992dd9b3908181f59",
+  "sample_size_bytes": 405965,
+  "total_records": 1232
 }
